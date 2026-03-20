@@ -1,7 +1,10 @@
 {
   "name": "openclaw-app",
   "version": "1.0.0",
+  "dependencies": {
+    "openclaw": "latest"
+  },
   "scripts": {
-    "start": "npx openclaw start"
+    "start": "openclaw start"
   }
 }
